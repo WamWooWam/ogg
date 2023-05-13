@@ -1,3 +1,4 @@
+.DS_Store
 aclocal.m4
 autom4te.cache
 ChangeLog
@@ -48,3 +49,5 @@ CMakeSettings.json
 
 .vs/
 .vscode/
+
+.DS_Store
